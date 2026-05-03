@@ -2,24 +2,12 @@
 
 Handwired STM32F401 (Blackpill) TKL Keyboard Project
 
-### Keyboard Layout Preview
-
-![Klandestin84](images/keyboard_layout_kln84.jpg)
-
-### Keyboard Wiring Preview
-
-![Klandestin84 Wiring](images/kln84_wiring.jpg)
-
-### VIA Support
-
-![Klandestin84 Via Support](images/via_support_kl84.jpg)
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer : [Alif Faizin](https://github.com/katakbersayap)
-* Hardware Supported : [*Raspberry Pi Pico RP2040*](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+* Hardware Supported : [*STM32F401 (Blackpill)*](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 * Firmware : *QMK Firmware*
-* Layout : *Custom (ortholinear / handwired)*
+* Layout : *TKL / handwired*
 
 ### Matrix Pins:
 Columns : 
