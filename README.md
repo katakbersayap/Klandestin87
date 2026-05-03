@@ -2,6 +2,7 @@
 
 Handwired STM32F401 (Blackpill) TKL Keyboard Project
 
+This project copy from [Meck TKL](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/meck_tkl) (Adding VIA Support)
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer : [Alif Faizin](https://github.com/katakbersayap)
